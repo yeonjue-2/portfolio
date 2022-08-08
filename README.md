@@ -34,5 +34,5 @@ Javacript / HTML5 / CSS / jQuery<p>
 - **3. Event-Cafe-Cloud(Spring)**
 > 카페 중개 대여 플랫폼 (팀 프로젝트) <p> 개발 기간 : 2022.06.24 - 2022.07.28 <p> </br>기술 스택 : <p>
 java 11 / Spring Boot 2.6.9 / Gradle / Spring Data JPA / QueryDSL <p>
-MySQL / Javacript / HTML5 / CSS / jQuery<p>
+MySQL / Thymeleaf / Javacript / HTML5 / CSS / jQuery<p>
 </br>[프로젝트 상세](https://github.com/yeonjue-2/eventcafecloud.git)
