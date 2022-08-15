@@ -66,7 +66,7 @@
 - 이벤트 도메인 개발
 - 이벤트 페이지 CRUD(이벤트 이름, 내용 수정 등) 
 - 메인페이지에 이벤트 노출, 북마크 기능
-- [프로젝트 상세](https://github.com/yeonjue-2/eventcafecloud.git)
+- [프로젝트 상세](https://github.com/yeonjue-2/Event-Cafe-Cloud.git)
 
 </br>
 </br>
