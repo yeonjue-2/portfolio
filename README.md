@@ -18,7 +18,7 @@
 </br>
 
 ## 📍 Projects
-[Notion으로 보기](https://www.notion.so/134e8eec3bb84a4ea1f3b61224c4f7ae)
+
 ### 1. [Event-Cafe-Cloud](https://www.eventcafecloud.com)(Spring)
 ```
 새로운 문화현상으로 급부상한 '이벤트카페'를 대여하기 위한 목적으로 카페 사장님과 팬덤을 연결하는 '카페 대여 중개 플랫폼'
