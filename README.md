@@ -19,7 +19,36 @@
 
 ## 📍 Projects
 
-### 1. [Event-Cafe-Cloud](https://www.eventcafecloud.com)(Spring)
+### 1. 오태식(오늘 우리가 택한 식단)(Spring)
+```
+여러 사람과 공유하며 즐겁게 식단을 관리하는 '식단 관리 SNS'
+```
+</br>
+
+**개발 기간** 
+- 2023.02.13 - 2023.03.31 
+<p> 
+
+
+**기술 스택**
+- Java / Spring Boot / Gradle / Spring Data JPA / Spring Security / MySQL / Redis / JWT / Hibernate <p>
+- AWS S3 / Docker / EC2 / RDS / ECR / Github Actions <p>
+ 
+
+**역할**
+- 프로젝트 기획 및 DB설계
+- 소셜 로그인을 통한 회원가입
+- 식단 포스팅 CRUD
+- S3 버킷을 이용한 이미지 저장 & url 관리
+- AOP를 활용한 글로벌 예외처리
+- Github Actions를 통한 CI/CD
+- Docker를 이용한 프로젝트 경량화 배포
+- [프로젝트 상세](https://github.com/yeonjue-2/sunFlowerP_back.git)
+
+</br>
+</br>
+
+### 2. [Event-Cafe-Cloud](https://www.eventcafecloud.com)(Spring)
 ```
 새로운 문화현상으로 급부상한 '이벤트카페'를 대여하기 위한 목적으로 카페 사장님과 팬덤을 연결하는 '카페 대여 중개 플랫폼'
 ```
@@ -49,55 +78,6 @@
 </br>
 </br>
 
-### 2. Event-Cafe-Cloud(Python)
-```
-'이벤트카페'를 대여하기 위한, 카페 사장님과 팬덤을 연결하는 '카페 대여 중개 플랫폼'
-```
-</br>
-
-**개발 기간** 
-- 2022.05.06 - 2022.05.12 
-<p> 
-
-
-**기술 스택**
-- python 3 / Flask / MongoDB /  <p>
-- Javacript / HTML5 / CSS / jQuery<p>
-
-
-
-**역할**
-- 프로젝트 기획 및 DB설계
-- 이벤트 도메인 개발
-- 이벤트 페이지 CRUD(이벤트 이름, 내용 수정 등) 
-- 메인페이지에 이벤트 노출, 북마크 기능
-- [프로젝트 상세](https://github.com/yeonjue-2/Event-Cafe-Cloud.git)
-
-</br>
-</br>
-
-### 3. Lolinkedin
-```
-리그 오브 레전드(League of Legend)라는 게임을 함께 하기 위한
-유저를 찾아주는 서비스
-```
-</br>
-
-**개발 기간** 
-- 2022.04.19 - 2022.04.22 
-<p> 
-
-
-**기술 스택**
-- python 3 / Flask / MongoDB /  <p>
-- Javacript / HTML5 / CSS <p>
-
-
-
-**역할**
-- 유저 정보 페이지에서 정보를 받아 메인페이지에서 노출
-- 메인페이지의 페이지 연결
-- [프로젝트 상세](https://github.com/yeonjue-2/lolinkedin.git)
 
 
 
